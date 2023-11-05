@@ -1,0 +1,20 @@
+**New Systems**
+- Welcome System
+- Goodbye System
+
+**New Comamnds**
+/help - Show's Artic's Help Menu.
+/developers - Show's the developers of Artic.
+/ping - Get Artic's Ping.
+/uptime - Artic's Uptime.
+/cat - Get a picture of a cat.
+/dog - Get a picture of a dog.
+/report-bug - Report a bug.
+/ban - Ban a user from the server.
+/unban - Unban a banned user from the server.
+/kick - Kick a user from the server.
+/warn - Warn a user from the server.
+/warnings - View all warnings of a user from the server.
+/removewarning - Remove a warning from a user from the server.
+/setup-goodbye-system - Setup the goodbye system.
+/setup-welcome-system - Setup the welcome system.
